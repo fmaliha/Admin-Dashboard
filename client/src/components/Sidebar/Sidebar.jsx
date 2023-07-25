@@ -21,8 +21,8 @@ const Sidebar = () => {
     <div className="sidebar">
       <div className="top">
         <Link to="/" style={{ textDecoration: "none" }}>
-          {/* <img src={Logo} alt="Asia Japan" className="LogoAJ" /> */}
-          <span className="logo">Admin</span>
+          <img src={Logo} alt="Asia Japan" className="logo" />
+          {/* <span className="logo">Admin</span> */}
         </Link>
       </div>
       <hr />

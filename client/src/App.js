@@ -7,7 +7,7 @@ import {
   BrowserRouter,
   Routes,
 } from "react-router-dom";
-import Home from "./pages/Home/Home";
+import Home from "./pages/home/Home";
 import Single from "./pages/single/single";
 import List from "./pages/list/List";
 
