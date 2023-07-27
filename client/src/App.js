@@ -1,12 +1,4 @@
-import { createRoot } from "react-dom/client";
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-  BrowserRouter,
-  Routes,
-} from "react-router-dom";
+import { Route, BrowserRouter, Routes } from "react-router-dom";
 import Home from "./pages/home/Home";
 import Single from "./pages/single/single";
 import List from "./pages/list/List";
